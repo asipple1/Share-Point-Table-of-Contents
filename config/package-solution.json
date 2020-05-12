@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "table-of-contents-client-side-solution",
+    "id": "172b9af4-1fe5-44e5-844c-0f49f9227d8b",
+    "version": "1.0.0.5",
+    "includeClientSideAssets": false,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/sr-table-of-contents.sppkg"
+  }
+}
